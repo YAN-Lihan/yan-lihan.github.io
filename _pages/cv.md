@@ -9,51 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Ph.D. in Communication, City University of Hong Kong, 2022
+  - Supervisor: Dr. Xiao-Fan Liu; Co-Supervisor: [Prof. Jonathan J. H. Zhu](https://scholar.google.com/citations?user=q41vFFQAAAAJ&hl=en)
+- Master of Journalism and Communication (with Distinction), Nanjing University, 2018
+  - Supervisor: Prof. Naipeng Chao; Co-Supervisor: [Dr. Cheng-Jun Wang](https://chengjunwang.com/)
+- Bachelor of Engineering in Software Engineering (with Distinction), Nanjing University of Posts and Telecommunications, 2016
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Interests
 
-Publications
-======
+- Topics: Diffusion of Innovations | New Media and Society | Cultural Change
+- Methodology: Text Mining | Network Analysis | Longitudinal Data Analysis
+
+## Publications
+
+<!-- - Zhicong Chen, Eric Jardine, Xiao-Fan Liu, Jonathan J. H. Zhu. (2022, OnlineFirst). Seeking Anonymity on the Internet: The Knowledge Accumulation Process and Global Usage of the Tor Network. New Media & Society. https://doi.org/10.1177/14614448211072201
+- Takeshi Hamamura, Zhicong Chen, Christian S. Chan, Sylvia Xiaohua Chen, Tetsuro Kobayashi. (2021). Individualism with Chinese Characteristics: Discerning Cultural Shifts in China Using 50 Years of Printed Texts. American Psychologist, 76(6), 888–903. https://doi.org/10.1037/amp0000840 -->
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
+ 
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Talks
+
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+## Awards
+
+- Outstanding Research Papers Awards Scheme, 2022
+- Research Tuition Scholarship, 2019
+- Hong Kong PhD Fellowship, 2018
+- National Scholarship for Graduate Students 2017
+- National Scholarship for Undergraduate Students 2014
+
+## Skills
+- Programming: Python (6 years), Linux Server Administration (6 years), R (2 years), Java (2 years), C# (1 year), C/C++ (1 year), MATLAB (1 year)
+- Languages: Chinese: (Native), English: (Professional)
+- Softwares: Jupyter, PyCharm, RStudio, SPSS, AMOS, GitHub, LATEX
+
