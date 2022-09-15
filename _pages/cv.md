@@ -13,14 +13,14 @@ redirect_from:
 
 - Ph.D. in Communication, City University of Hong Kong, 2022
   - Supervisor: Dr. Xiao-Fan Liu; Co-Supervisor: [Prof. Jonathan J. H. Zhu](https://scholar.google.com/citations?user=q41vFFQAAAAJ&hl=en)
-- Master of Journalism and Communication (with Distinction), Nanjing University, 2018
+- Master of Journalism and Communication, Nanjing University, 2018
   - Supervisor: Prof. Naipeng Chao; Co-Supervisor: [Dr. Cheng-Jun Wang](https://chengjunwang.com/)
-- Bachelor of Engineering in Software Engineering (with Distinction), Nanjing University of Posts and Telecommunications, 2016
+- BEng in Software Engineering, Nanjing University of Posts and Telecommunications, 2016
 
 ## Research Interests
 
-- Topics: Diffusion of Innovations | New Media and Society | Cultural Change
-- Methodology: Text Mining | Network Analysis | Longitudinal Data Analysis
+- Keywords: Diffusion of Innovations, Media Technology and Society, Cultural and Social Change
+- Methodology: Text Mining, Network Analysis, Causal Inference with Longitudinal Data
 
 ## Publications
 
@@ -42,6 +42,11 @@ redirect_from:
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  
+## Working Experience
+
+- User Analyst at Bytedance, Beijing, China, Summer 2018
+- Rating Analyst at JSBC, Nanjing, China, Summer 2017
   
 ## Awards
 
