@@ -3,8 +3,7 @@ layout: archive
 title: "中文简历"
 permalink: /chinese/
 author_profile: true
-redirect_from: 
-  - /chinese/
+
 ---
 
 # 教育背景
