@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhicong Chen | Homepage"
+title                    : "Zhicong Chen | 陈志聪"
 title_separator          : "-"
 name                     : &name "Zhicong Chen"
 description              : &description "computational social scientist"
