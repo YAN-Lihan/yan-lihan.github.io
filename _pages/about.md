@@ -15,6 +15,6 @@ I have just obtained by Ph.D. in Communication in Aug 2022 from the Department o
 ![nms](https://user-images.githubusercontent.com/13479560/190389298-a3b1924d-b6aa-4c48-b75a-151f8b40d45e.png)
 ![amp](https://user-images.githubusercontent.com/13479560/190389308-b3219db8-d264-41fa-9e87-8c6575091f27.png)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1h3_yqLtidGBKa77va7G0NQLX5vIy9hsyF0ATc-N8GQ&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=1h3_yqLtidGBKa77va7G0NQLX5vIy9hsyF0ATc-N8GQ'></script>
 
-<a class="twitter-timeline" href="https://twitter.com/jssyczc?ref_src=twsrc%5Etfw">Recent Tweets by Zhicong Chen</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <a class="twitter-timeline" href="https://twitter.com/jssyczc?ref_src=twsrc%5Etfw">Recent Tweets by Zhicong Chen</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
