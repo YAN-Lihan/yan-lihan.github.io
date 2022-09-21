@@ -12,9 +12,9 @@ redirect_from:
 ## Education
 
 - Ph.D. in Communication, City University of Hong Kong, 2022
-  - Supervisor: Dr. Xiao-Fan Liu; Co-Supervisor: [Prof. Jonathan J. H. Zhu](https://scholar.google.com/citations?user=q41vFFQAAAAJ&hl=en)
-- Master of Journalism and Communication, Nanjing University, 2018
-  - Supervisor: Prof. Naipeng Chao; Co-Supervisor: [Dr. Cheng-Jun Wang](https://chengjunwang.com/)
+  - Supervisor: [Dr. Xiao-Fan Liu](https://scholar.google.com/citations?user=77urMs4AAAAJ&hl=en); Co-Supervisor: [Prof. Jonathan J. H. Zhu](https://scholar.google.com/citations?user=q41vFFQAAAAJ&hl=en)
+- Master in Journalism and Communication, Nanjing University, 2018
+  - Supervisor: [Prof. Naipeng Chao](http://cmc.szu.edu.cn/Home/Default/teachersMoreE/4058.html); Co-Supervisor: [Dr. Cheng-Jun Wang](https://chengjunwang.com/)
 - BEng in Software Engineering, Nanjing University of Posts and Telecommunications, 2016
 
 ## Research Interests
