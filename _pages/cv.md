@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 ## Contact
 
-- Email: jssyczc AT gmail.com | zhicong.chen AT my.cityu.edu.hk
+- Email: jssyczc AT gmail.com, zhicong.chen AT my.cityu.edu.hk
 - Address: Room 303, Zijing Building, Nanjing University, 163 Xianlin Road, Nanjing, China
 
 ## Education
