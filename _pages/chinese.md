@@ -6,12 +6,23 @@ author_profile: true
 
 ---
 
+## 联系方式
+
+- 电子邮箱: jssyczc AT foxmail.com
+- 联系地址: 江苏省南京市栖霞区仙林大道163号南京大学仙林校区新闻传播学院303室
+
 ## 教育背景
-- 传播学博士，香港城市大学，2022年
+- 传播学博士，香港城市大学媒体与传播系，2018-2022
   - 导师：刘肖凡博士，合作导师：祝建华教授
-- 新闻与传播硕士，南京大学，2018年
+- 新闻与传播硕士，南京大学新闻传播学院，2016-2018
   - 导师：巢乃鹏教授，合作导师：王成军博士
-- 工学学士，南京邮电大学，2016年
+- 工学学士，南京邮电大学计算机学院，2012-2016
+
+## 工作经历
+- 助理研究员，南京大学新闻传播学院，2022-
+- 兼职研究助理，香港城市大学媒体与传播系，2021-2022
+- 用户分析实习生，字节跳动算数中心，2018
+- 用户分析实习生，江苏广电受众研究中心，2017
 
 ## 主要研究兴趣
 - 计算传播研究：计算社会科学，社会网络分析，文本挖掘，用户行为分析
@@ -27,14 +38,6 @@ author_profile: true
 ### 中文期刊论文
 1. **陈志聪**，秦强，王成军：《作为社会动员过程的互联网众筹公益——以腾讯乐捐为例》，《中国网络传播研究》（CSSCI来源集刊），2016年第1期，第173-190页。
 
-### 在投论文
-1. Tales of Twin Forums on the Dark and Surface Web: Understanding Social Behaviors in Anonymous Online Communities, with Xiao-Fan Liu, in preparation.
-2. Propagating COVID-19 Conspiracy Theories: The Influence of Right-Wing Sources, with Wenting Yu & Xiang Meng, in submission.
-
-### 预印本论文
-1. Huimin Xu, **Zhicong Chen**, Ruiqi Li, Cheng-Jun Wang. (2020). The Geometry of Information Cocoon: Analyzing the Cultural Space with Word Embedding Models. arXiv:2007.10083
-2. Cheng-Jun Wang, **Zhicong Chen**, Qiang Qin, Naipeng Chao. (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. arXiv:1710.07761
-
 ### 会议论文
 1. **Zhicong Chen**, Xiao-Fan Liu. (2021). Why Do Users Leave Anonymous Online Communities? An Exploratory Study of the Silk Road Forum on the Dark Web. ICA 2021, Denver, CO (Virtual)
 2. **Zhicong Chen**, Xiang Meng, Wenting Yu. (2021). Depolarization in the rise of far-right platforms? : A moderated mediation model on political identity, misinformation belief and voting behavior in the 2020 US Presidential Election. IAMCR 2021, Nairobi, Kenya (Virtual)
@@ -42,15 +45,14 @@ author_profile: true
 4. **Zhicong Chen**, Lingfei Wu, Naipeng Chao, Cheng-Jun Wang. (2018). The Poor Read for Entertainment and the Rich Read for Education: Poverty, Fragmentation, and Knowledge Homogeneity. IC2S2 2018, Northwestern University, Chicago, IL
 5. Huimin Xu, **Zhicong Chen**, Cheng-Jun Wang. (2018). Social Classes Shapes Our Trajectories in Both Online and Offline Space. IC2S2 2018, Northwestern University, Chicago, IL
 
+### 预印本论文
+1. Huimin Xu, **Zhicong Chen**, Ruiqi Li, Cheng-Jun Wang. (2020). The Geometry of Information Cocoon: Analyzing the Cultural Space with Word Embedding Models. arXiv:2007.10083
+2. Cheng-Jun Wang, **Zhicong Chen**, Qiang Qin, Naipeng Chao. (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. arXiv:1710.07761
+
 ## 教学经历
 - Python 基础与用户分析，香港城市大学CNM毕业生工作坊讲师，2019年1月
 - 媒体数据分析，香港城市大学2018级CNM硕士班助教，2018年春季学期
 - 数据新闻，南京大学2015级传媒实验班助教，2016年秋季学期
-
-## 工作经历
-- 兼职研究助理，香港城市大学媒体与传播系，2021年9月-2022年6月
-- 用户分析实习生，字节跳动算数中心，2018年5月-2018年8月
-- 用户分析实习生，江苏广电受众研究中心，2017年7月-2017年8月
 
 ## 获奖经历
 - 香港城市大学杰出研究论文奖（2021）
