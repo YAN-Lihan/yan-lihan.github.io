@@ -8,8 +8,8 @@ author_profile: true
 
 ## 联系方式
 
-- 电子邮箱: jssyczc AT foxmail.com
-- 联系地址: 江苏省南京市栖霞区仙林大道163号南京大学仙林校区新闻传播学院303室
+- 电子邮箱：jssyczc AT foxmail.com
+- 联系地址：江苏省南京市栖霞区仙林大道163号南京大学仙林校区新闻传播学院303室
 
 ## 教育背景
 - 传播学博士，香港城市大学媒体与传播系，2018-2022
@@ -30,10 +30,9 @@ author_profile: true
 
 ## 研究成果
 ### SSCI期刊论文
-1. **Zhicong Chen**, Eric Jardine, Xiao-Fan Liu, Jonathan J. H. Zhu. (2022) Seeking Anonymity on the Internet: The Knowledge Accumulation Process and Global Usage of the Tor Network. **New Media & Society**. https://doi.org/10.1177/14614448211072201
-影响因子(IF)：8.061，JCR 排名：2/95，传播学
+1. **Zhicong Chen**, Eric Jardine, Xiao-Fan Liu, Jonathan J. H. Zhu. (2022, OnlineFirst). Seeking Anonymity on the Internet: The Knowledge Accumulation Process and Global Usage of the Tor Network. **New Media & Society**. https://doi.org/10.1177/14614448211072201
+2. Takeshi Hamamura, Christian S. Chan, Sylvia Xiaohua Chen, **Zhicong Chen**, Tetsuro Kobayashi, Jacky Chi Kit Ng. (2022). Toward A Better Understanding of Cultural Change: Reply to Bao et al. (2022). **American Psychologist**, 77(6), 789–790. https://doi.org/10.1037/amp0001032
 2. Takeshi Hamamura, **Zhicong Chen**, Christian S. Chan, Sylvia Xiaohua Chen, Tetsuro Kobayashi. (2021). Individualism with Chinese Characteristics? Discerning Cultural Shifts in China Using 50 Years of Printed Texts. **American Psychologist**, 76(6), 888-903. https://doi.org/10.1037/amp0000840
-影响因子(IF)：10.885，JCR 排名：5/140，心理学-交叉学科
 
 ### 中文期刊论文
 1. **陈志聪**，秦强，王成军：《作为社会动员过程的互联网众筹公益——以腾讯乐捐为例》，《中国网络传播研究》（CSSCI来源集刊），2016年第1期，第173-190页。
