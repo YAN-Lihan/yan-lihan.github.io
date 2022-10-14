@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2019-com5508-tutorial
 venue: "City University of Hong Kong"
-date: 2015-01-01
+date: 2019-01-01
 location: "City, Country"
 ---
 
@@ -17,4 +17,4 @@ I made six tutorials for COM5508 Spring 2019 at City University of Hong Kong.
 - L9-Tutorial-Topic Modeling with LDA.ipynb
 - L10-Tutorial-Semantic Analysis.ipynb
 
-All the materials are avaiable on GitHub: https://github.com/zhicongchen/COM5508-Spring-2019-Tutorials
+All the materials are avaiable on GitHub: [https://github.com/zhicongchen/COM5508-Spring-2019-Tutorials](https://github.com/zhicongchen/COM5508-Spring-2019-Tutorials)
