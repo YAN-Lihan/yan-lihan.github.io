@@ -2,7 +2,7 @@
 layout: archive
 title: "中文简历"
 permalink: /chinese/
-author_profile: true
+author_profile: false
 
 ---
 
@@ -19,27 +19,28 @@ author_profile: true
 - 工学学士，南京邮电大学计算机学院，2012-2016
 
 ## 工作经历
-- 特任助理研究员，南京大学新闻传播学院，2022-
+- 特任助理研究员，南京大学新闻传播学院，2022-现在
 - 兼职研究助理，香港城市大学媒体与传播系，2021-2022
 - 用户分析实习生，字节跳动算数中心，2018
 - 用户分析实习生，江苏广电受众研究中心，2017
 
 ## 主要研究兴趣
-- 计算传播研究：计算社会科学，社会网络分析，文本挖掘，用户行为分析
-- 新媒体与社会：创新扩散，文化与社会变迁，匿名传播技术与社会治理
+- 计算传播研究：大规模用户行为分析，社会网络分析，文本挖掘，因果推断
+- 新媒体研究：创新扩散，文化与社会变迁，匿名传播技术与社会治理
 
 ## 研究成果
-### CSSCI期刊论文
-1. **陈志聪**，周钰，巢乃鹏，王成军：《社会加速与传播游戏之间的张力：移动阅读的碎片化、多样性与持续性》，《**新闻与传播研究**》（CSSCI来源期刊），2022年第10期。
-2. **陈志聪**，秦强，王成军：《作为社会动员过程的互联网众筹公益——以腾讯乐捐为例》，《**中国网络传播研究**》（CSSCI集刊），2016年第1期。
 
-### SSCI期刊论文
-1. Takeshi Hamamura, Christian S. Chan, Sylvia Xiaohua Chen, **Zhicong Chen**, Tetsuro Kobayashi, Jacky Chi Kit Ng. (2022). Toward A Better Understanding of Cultural Change: Reply to Bao et al. (2022). **American Psychologist**, 77(6), 789–790. https://doi.org/10.1037/amp0001032
-2. **Zhicong Chen**, Eric Jardine, Xiao-Fan Liu, Jonathan J. H. Zhu. (2022, OnlineFirst). Seeking Anonymity on the Internet: The Knowledge Accumulation Process and Global Usage of the Tor Network. **New Media & Society**. https://doi.org/10.1177/14614448211072201
-3. Takeshi Hamamura, **Zhicong Chen**, Christian S. Chan, Sylvia Xiaohua Chen, Tetsuro Kobayashi. (2021). Individualism with Chinese Characteristics? Discerning Cultural Shifts in China Using 50 Years of Printed Texts. **American Psychologist**, 76(6), 888-903. https://doi.org/10.1037/amp0000840
+### CSSCI期刊论文（\*为通讯作者）
+1. **陈志聪**，周钰，巢乃鹏，王成军*：《社会加速与传播游戏之间的张力：移动阅读的碎片化、多样性与持续性》，《**新闻与传播研究**》（CSSCI来源期刊），2022年第10期。
+2. **陈志聪**，秦强，王成军*：《作为社会动员过程的互联网众筹公益——以腾讯乐捐为例》，《**中国网络传播研究**》（CSSCI来源集刊），2016年第1期。
+
+### SSCI期刊论文（\*为通讯作者）
+1. Takeshi Hamamura*, Christian S. Chan, Sylvia Xiaohua Chen, **Zhicong Chen**, Tetsuro Kobayashi, Jacky Chi Kit Ng. (2022). Toward A Better Understanding of Cultural Change: Reply to Bao et al. (2022). **American Psychologist**, 77(6), 789–790. https://doi.org/10.1037/amp0001032
+2. **Zhicong Chen**, Eric Jardine, Xiao-Fan Liu*, Jonathan J. H. Zhu. (2022). Seeking Anonymity on the Internet: The Knowledge Accumulation Process and Global Usage of the Tor Network. **New Media & Society**. https://doi.org/10.1177/14614448211072201
+3. Takeshi Hamamura*, **Zhicong Chen**, Christian S. Chan, Sylvia Xiaohua Chen, Tetsuro Kobayashi. (2021). Individualism with Chinese Characteristics? Discerning Cultural Shifts in China Using 50 Years of Printed Texts. **American Psychologist**, 76(6), 888-903. https://doi.org/10.1037/amp0000840
 
 ### 国际会议论文
-1. Zhengyi Liang, Naipeng Chao, **Zhicong Chen**. (2022). The Ideological Space within Reading: Political Ideology and the Consumption of Books in China. **ICA 2022** (Top Student Papers), Paris, France
+1. Zhengyi Liang, Naipeng Chao, **Zhicong Chen**. (2022). The Ideological Space within Reading: Political Ideology and the Consumption of Books in China. **ICA 2022** (**Top Student Papers**), Paris, France
 2. **Zhicong Chen**, Xiao-Fan Liu. (2021). Why Do Users Leave Anonymous Online Communities? An Exploratory Study of the Silk Road Forum on the Dark Web. **ICA 2021**, Denver, CO (Virtual)
 3. **Zhicong Chen**, Xiang Meng, Wenting Yu. (2021). Depolarization in the rise of far-right platforms? : A moderated mediation model on political identity, misinformation belief and voting behavior in the 2020 US Presidential Election. **IAMCR 2021**, Nairobi, Kenya (Virtual)
 4. Huimin Xu, **Zhicong Chen**, Ruiqi Li, Cheng-Jun Wang. (2020). The Geometry of Information Cocoon. **IC2S2 2020**, Cambridge, MA (Virtual)
