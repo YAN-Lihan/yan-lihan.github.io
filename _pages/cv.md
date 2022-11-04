@@ -14,6 +14,11 @@ redirect_from:
 - Email: jssyczc AT gmail.com
 - Address: Room 303, Zijing Building, Nanjing University, 163 Xianlin Road, Nanjing, China
 
+## Working Experience
+
+- Assistant Research Fellow, Nanjing University, 2022-
+- Part-Time Research Assistant, City University of Hong Kong, 2021-2022
+
 ## Education
 
 - Ph.D. in Communication, City University of Hong Kong, 2018-2022
@@ -22,25 +27,19 @@ redirect_from:
   - Supervisor: [Prof. Naipeng Chao](http://cmc.szu.edu.cn/Home/Default/teachersMoreE/4058.html); Co-Supervisor: [Dr. Cheng-Jun Wang](https://chengjunwang.com/)
 - BEng in Software Engineering, Nanjing University of Posts and Telecommunications, 2012-2016
 
-## Working Experience
-
-- Assistant Research Fellow, Nanjing University, 2022-
-- Part-Time Research Assistant, City University of Hong Kong, 2021-2022
-- User Analyst (Summer Intern), Bytedance, Beijing, 2018
-- Television Ratings Analyst (Summer Intern), JSBC, Nanjing, 2017
-
 ## Research Interests
 
-- Keywords: Diffusion of Innovations, Media Technology and Society, Cultural and Social Change
-- Methodology: Text Mining, Network Analysis, Causal Inference with Longitudinal Data
+- Cultural and Social Change
+- New Media and Society
+- Computational Methods
 
-## Publications
+## Selected Publications
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-## Teaching
+## Teaching Experience
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
