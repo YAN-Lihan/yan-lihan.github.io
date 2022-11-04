@@ -21,11 +21,15 @@ redirect_from:
 
 ## Education
 
-- Ph.D. in Communication, City University of Hong Kong, 2018-2022
+- Ph.D. in Communication, 2018-2022
+  - Department of Media and Communication, City University of Hong Kong
   - Supervisor: [Dr. Xiao-Fan Liu](https://scholar.google.com/citations?user=77urMs4AAAAJ&hl=en); Co-Supervisor: [Prof. Jonathan J. H. Zhu](https://scholar.google.com/citations?user=q41vFFQAAAAJ&hl=en)
-- Master in Journalism and Communication, Nanjing University, 2016-2018
+  - Dissertation: Discovering the Shady Corner of the Internet: The Acquisition, Use, and Social Impacts of the Tor Anonymity Network
+- Master in Journalism and Communication, 2016-2018
+  - School of Journalism and Communication, Nanjing University
   - Supervisor: [Prof. Naipeng Chao](http://cmc.szu.edu.cn/Home/Default/teachersMoreE/4058.html); Co-Supervisor: [Dr. Cheng-Jun Wang](https://chengjunwang.com/)
-- BEng in Software Engineering, Nanjing University of Posts and Telecommunications, 2012-2016
+- BEng in Software Engineering, 2012-2016
+  - School of Computer Science, Nanjing University of Posts and Telecommunications
 
 ## Research Interests
 
@@ -33,7 +37,9 @@ redirect_from:
 - New Media and Society
 - Computational Methods
 
-## Selected Publications
+## Selected Peer-Reviewed Publications
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=mt_TyjoAAAAJ)
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
