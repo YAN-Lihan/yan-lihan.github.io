@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "中文简历"
+title: "学术履历"
 permalink: /chinese/
 author_profile: false
 
@@ -30,11 +30,13 @@ author_profile: false
 
 ## 研究成果
 
-### CSSCI期刊论文（\*为通讯作者）
+\*为通讯作者
+
+### CSSCI期刊论文
 1. **陈志聪**，周钰，巢乃鹏，王成军*：《社会加速与传播游戏之间的张力：移动阅读的碎片化、多样性与持续性》，《**新闻与传播研究**》（CSSCI来源期刊），2022年第10期。
 2. **陈志聪**，秦强，王成军*：《作为社会动员过程的互联网众筹公益——以腾讯乐捐为例》，《**中国网络传播研究**》（CSSCI来源集刊），2016年第1期。
 
-### SSCI期刊论文（\*为通讯作者）
+### SSCI期刊论文
 1. Takeshi Hamamura*, Christian S. Chan, Sylvia Xiaohua Chen, **Zhicong Chen**, Tetsuro Kobayashi, Jacky Chi Kit Ng. (2022). Toward A Better Understanding of Cultural Change: Reply to Bao et al. (2022). **American Psychologist**, 77(6), 789–790. https://doi.org/10.1037/amp0001032
 2. **Zhicong Chen**, Eric Jardine, Xiao-Fan Liu*, Jonathan J. H. Zhu. (2022). Seeking Anonymity on the Internet: The Knowledge Accumulation Process and Global Usage of the Tor Network. **New Media & Society**. https://doi.org/10.1177/14614448211072201
 3. Takeshi Hamamura*, **Zhicong Chen**, Christian S. Chan, Sylvia Xiaohua Chen, Tetsuro Kobayashi. (2021). Individualism with Chinese Characteristics? Discerning Cultural Shifts in China Using 50 Years of Printed Texts. **American Psychologist**, 76(6), 888-903. https://doi.org/10.1037/amp0000840
