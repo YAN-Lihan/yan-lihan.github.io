@@ -11,8 +11,8 @@ redirect_from:
 
 ## Contact
 
-- Email: jssyczc AT gmail.com
-- Address: Room 303, Zijing Building, Nanjing University, 163 Xianlin Road, Nanjing, China
+- Email: zcchen AT nju.edu.cn
+- Address: Room 303, 3/F, Zijing Hall, Nanjing University, 163 Xianlin Road, Nanjing, China
 
 ## Working Experience
 
