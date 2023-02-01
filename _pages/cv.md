@@ -16,7 +16,7 @@ redirect_from:
 
 ## Working Experience
 
-- Assistant Research Fellow, Nanjing University, 2022 - Now
+- Research Assistant Professor, Nanjing University, 2022 - Now
 - Part-Time Research Assistant, City University of Hong Kong, 2021 - 2022
 
 ## Education
