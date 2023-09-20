@@ -1,11 +1,11 @@
 ---
-title: "COM5508 Tutorials"
+title: "COM5508 Tutorials (Teaching Assistant) Spring 2019"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2019-com5508-tutorial
 venue: "City University of Hong Kong"
 date: 2019-01-01
-location: "City, Country"
+location: "Kowloon, Hong Kong"
 ---
 
 I made six tutorials for COM5508 Spring 2019 at City University of Hong Kong. 
