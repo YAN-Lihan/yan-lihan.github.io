@@ -1,11 +1,11 @@
 ---
-title: "2019 MACNM Computational Workshop"
+title: "CityU MACNM Alumni Computational Workshop 2019"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2019-computational-workshop
 venue: "City University of Hong Kong"
 date: 2019-01-01
-location: "Hong Kong SAR"
+location: "Kowloon, Hong Kong SAR"
 ---
 
 This is a workshop for MACNM alumni organized by Web Mining Lab at City University of Hong Kong
