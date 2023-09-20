@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 [Please download the PDF version here](https://docs.google.com/document/d/1nZFeseQG5YaBvCJ5I4Qm_iN1Osh1puaLccjqIuJpwd8/)
+
+<!--
+
+{% include base_path %}
 
 ## Contact
 
@@ -46,12 +48,12 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!--
 ## Talks
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  
 -->
 
 
