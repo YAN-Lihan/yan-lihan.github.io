@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[Please download the PDF version here](https://docs.google.com/document/d/1nZFeseQG5YaBvCJ5I4Qm_iN1Osh1puaLccjqIuJpwd8/)
-
 {% include base_path %}
+
+[Please download the PDF version here](https://docs.google.com/document/d/1nZFeseQG5YaBvCJ5I4Qm_iN1Osh1puaLccjqIuJpwd8/)
 
 ## Contact
 
