@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-陈志聪，南京大学新闻传播学院特任助理研究员，南京大学计算传播学实验中心成员。2022年毕业于香港城市大学媒体与传播系互联网挖掘实验室（Web Mining Lab），获传播学专业哲学博士学位（Ph.D. in Communication），2018年香港政府博士研究生奖学金计划（HKPFS）获得者。自2015年起对计算社会科学与计算传播研究产生浓厚兴趣，分别于2016年和2018年取得工学学士学位和新闻与传播硕士学位。已有研究发表于《新闻与传播研究》、《贵州社会科学》、New Media & Society、American Psychologist等中英文一流学术期刊。
+陈志聪，南京大学新闻传播学院助理研究员。2022年毕业于香港城市大学媒体与传播系互联网挖掘实验室（Web Mining Lab），获传播学专业哲学博士学位（Ph.D. in Communication），2018年香港政府博士研究生奖学金计划（HKPFS）获得者。已有研究发表于《新闻与传播研究》、New Media & Society、American Psychologist、Humanities and Social Sciences Communications等中英文一流学术期刊。
 
 [点击这里查看中文版学术履历](https://docs.qq.com/doc/p/1d7474daedd329067b37915c0d33e8c5eaca8906)
 
