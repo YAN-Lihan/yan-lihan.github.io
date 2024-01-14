@@ -1,13 +1,10 @@
 ---
-title: "CityU MACNM Alumni Computational Workshop 2019"
+title: "Research Assistant (Full-time)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2019-computational-workshop
+type: "Web Mining Lab"
 venue: "City University of Hong Kong"
-date: 2019-01-01
+date: 2021-2022
 location: "Kowloon, Hong Kong SAR"
 ---
 
-This is a workshop for MACNM alumni organized by Web Mining Lab at City University of Hong Kong
-
-All teaching materials are available on the webpage: http://weblab.com.cityu.edu.hk/blog/workshops/19-macnm-computational-workshop/
+Supervisor: Dr. Xiaofan Liu, Prof. Jianhua Zhu
