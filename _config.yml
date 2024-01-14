@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhicong Chen | 陈志聪"
+title                    : "Lihan Yan | 闫丽涵"
 title_separator          : "-"
-name                     : &name "Zhicong Chen"
+name                     : &name "Lihan Yan"
 description              : &description "computational social scientist"
-url                      : "https://zhicongchen.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Lihan-YAN.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhicongchen/zhicongchen.github.io"
+repository               : "Lihan-YAN/Lihan-YAN.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhicong Chen"
-  avatar           : "czc.png"
-  bio              : "Research Assistant Professor @ School of Journalism and Communication, Nanjing University"
+  name             : "Lihan Yan"
+  avatar           : ""
+  bio              : "Ph.D Student @ School of Journalism and Communication, Nanjing University"
   location         : 
   employer         : 
   pubmed           : 
