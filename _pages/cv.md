@@ -13,6 +13,8 @@ redirect_from:
 
 {% include base_path %}
 
+![底边长图](https://user-images.githubusercontent.com/13479560/203529033-da7cb30e-2c5d-4e11-9b2c-64ed0dcf49da.png)
+
 ## Contact
 
 - Address: Room 303, 3/F, Zijing Hall, Nanjing University, 163 Xianlin Road, Nanjing, China
