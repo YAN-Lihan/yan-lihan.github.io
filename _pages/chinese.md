@@ -6,8 +6,7 @@ author_profile: true
 
 ---
 
-陈志聪，南京大学新闻传播学院助理研究员。2022年毕业于香港城市大学媒体与传播系互联网挖掘实验室（Web Mining Lab），获传播学专业哲学博士学位（Ph.D. in Communication），2018年香港政府博士研究生奖学金计划（HKPFS）获得者。已有研究发表于《新闻与传播研究》、New Media & Society、American Psychologist、Humanities and Social Sciences Communications等中英文一流学术期刊。
+闫丽涵，南京大学新闻与传播学院计算传播学博士生，信息管理学院数据智能与交叉创新实验室成员。2021年硕士毕业于香港城市大学媒体与传播系，同年在该系互联网挖掘实验室（Web Mining Lab）担任研究助理，2016年本科毕业于中南大学文学与新闻传播学院。目前的研究领域为科学传播、计算传播、科学学。
 
-[点击这里查看中文版学术履历](https://docs.qq.com/doc/p/1d7474daedd329067b37915c0d33e8c5eaca8906)
 
 ![底边长图](https://user-images.githubusercontent.com/13479560/203529033-da7cb30e-2c5d-4e11-9b2c-64ed0dcf49da.png)
