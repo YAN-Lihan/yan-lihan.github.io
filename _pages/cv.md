@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Please download the PDF version here](CV - Lihan Yan_20231207.pdf)
+[Please download the PDF version here](https://docs.google.com/document/d/1HoJ4olurSLk0ESJ8dEaYGa9MKGpBSQ77ngcQC59zgjo/edit?hl=zh-cn)
 
 <!--
 
