@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Please download the PDF version here](https://docs.google.com/document/d/1nZFeseQG5YaBvCJ5I4Qm_iN1Osh1puaLccjqIuJpwd8/)
+[Please download the PDF version here](file:///Users/lihanyan/Library/CloudStorage/OneDrive-%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99/C.V/CV%20-%20Lihan%20Yan_20231207.pdf)
 
 <!--
 
