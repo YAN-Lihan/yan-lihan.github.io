@@ -14,6 +14,8 @@ I'm Lihan Yan, a Ph.D. student in **Computational Communication** at [Computatio
 
 I graduated from **Central South University** with a bachelor's degree, majoring in radio and television and graduated from **City University of Hong Kong** with a master's degree, majoring in communication and new media, and the specific stream is media data analysis.  I have two research assistant experiences so far in City University of Hong Kong.
 
+Contact me：yanlihan9829@gmail.com; 602022110022@smail.nju.edu.cn
+
 
 ![底边长图](https://user-images.githubusercontent.com/13479560/203529033-da7cb30e-2c5d-4e11-9b2c-64ed0dcf49da.png)
 
