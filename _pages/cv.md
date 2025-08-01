@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Please download the PDF version here](https://docs.google.com/document/d/1HoJ4olurSLk0ESJ8dEaYGa9MKGpBSQ77ngcQC59zgjo/edit?hl=zh-cn)
+[Please download the PDF version here](https://drive.google.com/file/d/1w1VrGK4d90fktcTNEUyiiCUT3NbdopoZ/view?usp=sharing)
 
 <!--
 
