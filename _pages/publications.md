@@ -1,4 +1,4 @@
----
+<img width="432" height="168" alt="image" src="https://github.com/user-attachments/assets/eaf02ce1-b496-4a7c-82c8-d2268912a0dd" />---
 layout: archive
 title: "Papers"
 permalink: /publications/
@@ -14,8 +14,21 @@ PUBLICATIONS
 
 [1] Yan, L., Jin, X., & Zhang, Y. (2022, June). Effects of virtual reality technology in disaster news coverage based on MAIN model. In International Conference on Human-Computer Interaction (pp. 122-129). Cham: Springer International Publishing.
 
+WORKING PAPERS
+
+[5] Yang, B., Yan, L. *, & Wang, C. J. *. (2026). The Experts’ Paradox: Networked Expertise and the Multidimensional Diffusion of Climate Knowledge on Twitter/X. Under review. (* co-corresponding author)
+
+[4] Yan, L., Zhang, Y., Yan, X-F., Chen, M., An, J., Wang, C-J. (2026). Is artificial intelligence a boundary-spanning catalyst for communication research? A bibliometric analysis of interdisciplinarity, disruptiveness, and citation impact from 1920 to 2024. Under review.
+
+[3] Yan, L., Li, Y & Wang, C. J. (2026). How does agenda setting among multiple actors affect public risk perception bias? Under review.
+
+[2] Yan, L., Liang, Y., & Wang, C. J. (2026). Novelty Leads to Disruption or Consolidation? Evidence from Communication Research (1970-2020). Under review.
+
+[1] Yan, L., Cui, H., & Wang, C. J. (2025). Does Patent Examination Disadvantage Combinatorial Novelty? Evidence from Institutional Gatekeeping at the USPTO. Under review.
 
 CONFERENCES
+
+[9] Yan, L., Zhang, Y., Yan, X-F., Chen, M., An, J., Wang, C-J. (2026). AI-Driven Interdisciplinary Integration and Innovation: Evidence from Communication Studies in the Web of Science. The 76rd International Communication Association Annual Conference (ICA). Cape Town, South Africa.
 
 [8] Yan, L., Zhou Y., Wei W. & Wang, C. (2024). The Power of Elite Narratives: Evidence from the Tweets of the 2020 US Presidential Election. Paper to be presented at the 110th Annual National Communication Association (NCA) Conference, New Orleans, LA.
 
